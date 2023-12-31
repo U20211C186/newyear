@@ -116,7 +116,7 @@ body {
     top: 0%;
   }
   100% {
-    top: -250%;
+    top: -300%;
   }
 }
 
@@ -128,8 +128,8 @@ body {
 }
 
 .year > span {
-  font-size: 175px;
-  font-weight: 700;
+  font-size: 150px;
+  font-weight: 300;
   font-family: "Poppins", sans-serif;
   letter-spacing: -12px;
 }
